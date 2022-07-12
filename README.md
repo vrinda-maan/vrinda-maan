@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vrinda1410
+- 👋 Hi, I’m @vrinda-maan
 - 👀 I’m interested in building & prototyping crazy ideas
 - 🌱 I’m currently learning AWS / Python / Data engineering
 - 💞️ I’m looking to collaborate on interesting projects in mentioned technologies
